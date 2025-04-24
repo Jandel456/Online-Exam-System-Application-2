@@ -1,0 +1,6 @@
+global using Fonts;
+global using Online_Exam_System_Application_2.Data;
+global using Online_Exam_System_Application_2.PageModels;
+global using Online_Exam_System_Application_2.Pages;
+global using Online_Exam_System_Application_2.Services;
+global using Online_Exam_System_Application_2.Utilities;

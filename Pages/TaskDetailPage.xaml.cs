@@ -1,0 +1,11 @@
+namespace Online_Exam_System_Application_2.Pages
+{
+    public partial class TaskDetailPage : ContentPage
+    {
+        public TaskDetailPage(TaskDetailPageModel model)
+        {
+            InitializeComponent();
+            BindingContext = model;
+        }
+    }
+}
