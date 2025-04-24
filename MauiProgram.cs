@@ -25,8 +25,8 @@ namespace Online_Exam_System_Application_2
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
-    		builder.Services.AddLogging(configure => configure.AddDebug());
+            builder.Logging.AddDebug();
+            builder.Services.AddLogging(configure => configure.AddDebug());
 #endif
 
             builder.Services.AddSingleton<ProjectRepository>();

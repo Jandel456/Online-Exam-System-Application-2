@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Online_Exam_System_Application_2.App">
+
+    <Grid RowDefinitions="100, Auto ">
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="redone_farvillage_logo02.jpg"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="farvillage logo" />
+
+            <Entry Placeholder="First Number"
+               Text="{Binding FirstNumber}"
+               Grid.Row="1" 
+               TextColor="Black"/>
+
+            <Button
+                x:Name="AddBtn"
+                Text="Add"
+                Clicked="OnAddClicked"
+                HorizontalOptions="Fill"
+                TextColor="Black" />
+
+
+        </VerticalStackLayout>
+    </Grid>
+
+</ContentPage>
