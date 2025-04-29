@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\Online Exam System Application 2.csproj": {}
+    "C:\\Users\\Jandel_Win\\source\\repos\\Online Exam System Application\\Online Exam System Application 2\\Online Exam System Application 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\Online Exam System Application 2.csproj": {
+    "C:\\Users\\Jandel_Win\\source\\repos\\Online Exam System Application\\Online Exam System Application 2\\Online Exam System Application 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\Online Exam System Application 2.csproj",
+        "projectUniqueName": "C:\\Users\\Jandel_Win\\source\\repos\\Online Exam System Application\\Online Exam System Application 2\\Online Exam System Application 2.csproj",
         "projectName": "Online Exam System Application 2",
-        "projectPath": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\Online Exam System Application 2.csproj",
-        "packagesPath": "C:\\Users\\sacre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\obj\\",
+        "projectPath": "C:\\Users\\Jandel_Win\\source\\repos\\Online Exam System Application\\Online Exam System Application 2\\Online Exam System Application 2.csproj",
+        "packagesPath": "C:\\Users\\Jandel_Win\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jandel_Win\\source\\repos\\Online Exam System Application\\Online Exam System Application 2\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sacre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jandel_Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
