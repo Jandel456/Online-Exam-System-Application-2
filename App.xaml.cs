@@ -1,10 +1,10 @@
 ﻿namespace Online_Exam_System_Application_2
 {
-    public partial class App : Application
+    public partial class MauiApp2 : Application
     {
-        public App()
+        public MauiApp2()
         {
-            InitializeComponent();
+            
         }
 
         protected override Window CreateWindow(IActivationState? activationState)

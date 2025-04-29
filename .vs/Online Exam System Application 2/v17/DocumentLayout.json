@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +23,16 @@
       "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|c:\\users\\sacre\\onedrive\\documents\\new-github\\online-exam-system-application-2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738241DA-7F0F-CB5F-56CD-3A12AD356BD8}|Online Exam System Application 2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:11:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:10:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
               "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\App.xaml.cs",
               "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:53:13.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -68,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
               "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\MauiProgram.cs",
               "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:37:52.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "GlobalUsings.cs",
@@ -94,26 +128,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\App.xaml",
               "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T16:37:44.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
               "ToolTip": "C:\\Users\\sacre\\OneDrive\\Documents\\NEW-Github\\Online-Exam-System-Application-2\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T16:36:54.693Z",
               "EditorCaption": ""
